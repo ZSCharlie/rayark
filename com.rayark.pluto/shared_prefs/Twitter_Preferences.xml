@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="app_consumer_key">wxpuy8JIMUoMpUAiycoryA</string>
+    <string name="app_consumer_secret">hdM89iWZkksAnn7jAasNj7NoTdWhu6ap6qNk37oKp6Y</string>
+    <string name="app_callback_url_prefix">twitterplugin</string>
+</map>

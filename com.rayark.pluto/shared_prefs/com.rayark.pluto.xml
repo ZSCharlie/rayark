@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="Soomla.Core.DebugMessages"></string>
+    <string name="Soomla.Store.PlaySsvValidation"></string>
+    <int name="Version240Updated" value="1" />
+    <string name="RandomId">0.4894629</string>
+    <int name="Screenmanager Resolution Width" value="1920" />
+    <int name="Screenmanager Resolution Height" value="1080" />
+    <string name="Soomla.Store.AndroidTestPurchases"></string>
+    <int name="Screenmanager Is Fullscreen mode" value="0" />
+    <int name="Version140Updated" value="1" />
+</map>

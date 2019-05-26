@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="PO#SU#SO#GU">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlrqwEaN5ElrjDHqVuin/mYz05RH2PwTAZA3H+Mgzzlag8W6fYn6yobIPe26VIiPn1KAXh0Ngf/eJLOb0Mhxccn7HbOxtID16F4xqEifon9x9ycAKcsZNBzllLmDEWmcd8vvBOO+oFUBmq4DxXHENWPLPjMHOkrw57xaiNNCB+ms/FBVD9V+VuLOrZR0froooCDzTznqcQ/bAd4z0VokVaDBNTEY+BWbxjaGEy1lZOUKPPCjA/OfZN68ukudYQF2CvNp67KxPMyJZnfG/77Vcj9qzQP6WR2RDxZANQf9E31379EE2YmVJAK0kItIJVxwblSWtzAgawHKTlVVo81Em5wIDAQAB</string>
+    <int name="MT_VER" value="4" />
+    <int name="SA_VER_OLD" value="24243" />
+</map>
